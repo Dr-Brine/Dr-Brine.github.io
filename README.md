@@ -1,9 +1,16 @@
 #Hello, I am Gediminas, QA Engineer
 # [Project Name] Test Automation Framework
+<br><br><br>
+[About me](# ABOUT-ME)  
+[My projects](# MY-PROJECTS)  
+[My blog](# MY-BLOG)
 
-[About me]()  
-[My projects]()  
-[My blog]()
+<br><br><br>
+# About ME
+
+some description about me
+<br><br><br>
+# MY Projects
 
 [![Project Logo or Banner]](link-to-image)
 
@@ -29,3 +36,8 @@
 2. **Install Dependencies:** `[Your Installation Command]`
 3. **Configure Environment:**  Set up any required environment variables or configurations.
 4. **Run Tests:** `[Your Test Execution Command]`
+
+<br><br><br>
+# My blog
+
+some my articles about technology...
