@@ -1,16 +1,23 @@
-#Hello, I am Gediminas, QA Engineer
-# [Project Name] Test Automation Framework
-<br><br><br>
-[About me](#ABOUT-ME)  
-[My projects](#MY-PROJECTS)  
-[My blog](#MY-BLOG)
+# Hello, I'm Gediminas
+### I'm QA engneer.
+
+<h2>
+  <a href="#about-me">About Me</a>
+</h2>
+<h2>
+  <a href="#my-projects">My Projects</a>
+</h2>
+<h2>
+  <a href="#my-blog">My Blog</a>
+</h2>
 
 <br><br><br>
-# About ME
+<h1 id="about-me" >ABOUT ME</h1>
 
-some description about me
+some description about me...
+
 <br><br><br>
-# MY Projects
+<h1 id="my-projects" >MY PROJECTS</h1>
 
 [![Project Logo or Banner]](link-to-image)
 
@@ -38,6 +45,7 @@ some description about me
 4. **Run Tests:** `[Your Test Execution Command]`
 
 <br><br><br>
-# My blog
+<h1 id="my-blog" >My BLOG</h1>
 
-some my articles about technology...
+
+some my articles about technology ...
