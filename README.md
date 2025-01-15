@@ -1,6 +1,10 @@
 #Hello, I am Gediminas, QA Engineer
 # [Project Name] Test Automation Framework
 
+[About me]()  
+[My projects]()  
+[My blog]()
+
 [![Project Logo or Banner]](link-to-image)
 
 > Accelerate your testing with our robust and scalable test automation framework, built for [Your Application/System].
