@@ -1,9 +1,9 @@
 #Hello, I am Gediminas, QA Engineer
 # [Project Name] Test Automation Framework
 <br><br><br>
-[About me](# ABOUT-ME)  
-[My projects](# MY-PROJECTS)  
-[My blog](# MY-BLOG)
+[About me](#ABOUT-ME)  
+[My projects](#MY-PROJECTS)  
+[My blog](#MY-BLOG)
 
 <br><br><br>
 # About ME
