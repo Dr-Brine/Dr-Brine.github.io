@@ -1,51 +1,85 @@
-# Hello, I'm Gediminas
-### I'm QA engneer.
+<div style="background-color: #f5f5f5; color: #2c3e50; padding: 20px; border-radius: 10px; font-family: Arial, sans-serif;">
 
-<h2>
-  <a href="#about-me">About Me</a>
-</h2>
-<h2>
-  <a href="#my-projects">My Projects</a>
-</h2>
-<h2>
-  <a href="#my-blog">My Blog</a>
-</h2>
+# 👋 Hello, I'm Gediminas  
+### ISTQB Certified Tester  
 
-<br><br><br>
-<h1 id="about-me" >ABOUT ME</h1>
+---
 
-some description about me...
+## 🗂️ Table of Contents
+1. [About Me](#about-me)
+2. [Certifications](#certifications)
+3. [Tools and Knowledge](#tools-and-knowledge)
+4. [Projects](#projects)
+5. [Contact Information](#contact-information)
 
-<br><br><br>
-<h1 id="my-projects" >MY PROJECTS</h1>
+---
 
-[![Project Logo or Banner]](link-to-image)
+<br>
 
-> Accelerate your testing with our robust and scalable test automation framework, built for [Your Application/System].
+## <a id="about-me"></a>📌 ABOUT ME
 
-## 🚀 Key Features
+💬 I am dedicated to the tasks I undertake, always prioritizing the interests of the team.  
+✨ I pay great attention to detail and uphold high standards, both for myself and others.  
+🛠️ When analyzing mistakes or resolving conflicts, I first reflect on what I could have done differently before addressing others' actions.  
+👍 I welcome constructive criticism and am not afraid to take responsibility when needed.  
 
-* **Cross-Platform Compatibility:**  Test on multiple browsers (Chrome, Firefox, Safari, Edge) and operating systems (Windows, macOS, Linux).
-* **Parallel Execution:**  Run tests in parallel to drastically reduce execution time.
-* **Data-Driven Testing:**  Test with various data sets to cover a wide range of scenarios.
-* **Reporting & Logging:**  Generate detailed test reports with screenshots and logs for easy analysis.
-* **CI/CD Integration:**  Seamlessly integrate with popular CI/CD pipelines (e.g., Jenkins, GitHub Actions).
+<br>
 
-## 🛠️ Tech Stack
+## <a id="certifications"></a>🎓 CERTIFICATIONS
 
-* **Programming Language:**  [Your Language] (e.g., Java, Python, JavaScript)
-* **Test Framework:**  [Your Framework] (e.g., Selenium, Cypress, TestNG)
-* **Build Tool:**  [Your Tool] (e.g., Maven, Gradle, npm)
+### 📘 VILNIUS CODING SCHOOL
+- **Manual & Automation Software Testing Course**
+  - Manual testing principles and methodologies  
+  - API testing with Postman  
+  - Work with Jira, JAVA basics, and Selenium WebDriver  
 
-## 🏁 Getting Started
+### 🏅 International Software Quality Institute
+- **ISTQB Certified Tester, Foundation Level v4.0**
+  - Fundamentals of Testing  
+  - Testing throughout the SDLC  
+  - Static Testing, Test Analysis, and Design  
+  - Managing Test Activities and Test Tools  
 
-1. **Clone the Repository:** `git clone [Repository URL]`
-2. **Install Dependencies:** `[Your Installation Command]`
-3. **Configure Environment:**  Set up any required environment variables or configurations.
-4. **Run Tests:** `[Your Test Execution Command]`
+### 📙 CodeAcademy
+- **Software Testing**
+  - Courses aligned with ISTQB Foundation Level certification program.  
+- **Python Programming**
+  - Basics of Python programming.  
 
-<br><br><br>
-<h1 id="my-blog" >My BLOG</h1>
+<br>
 
+## <a id="tools-and-knowledge"></a>🛠️ TOOLS AND KNOWLEDGE
 
-some my articles about technology ...
+- **Tools**: 🛠️ Jira, 🧪 Postman, Git, Qase, Selenium WebDriver  
+- **Programming Languages**: 💻 JAVA, Python, C++  
+
+<br>
+
+## <a id="projects"></a>📂 PROJECTS
+
+### 🖥️ Lemona.lt Testing
+- Automation tests for the **lemona.lt** website.  
+- **Git Repository**: [View Code](https://github.com/Dr-Brine/FinalTest.git)  
+
+---
+
+### 🌐 TestBirds Platform
+- Freelance platform for QA engineers.  
+- **Website**: [Visit TestBirds](https://nest.testbirds.com/)  
+
+---
+
+### 🎨 Opensea.io Testing
+- Manual testing of the NFT page **opensea.io**.  
+  - **Presentation Website**: [View Presentation](https://630fabed3f938.site123.me/)  
+  - **Test Cases**: [View Test Cases](https://drive.google.com/file/d/17Fb96haiJ72PieYs1Zm2sICevV6qzzHO/view?usp=sharing)  
+
+<br>
+
+## <a id="contact-information"></a>📞 CONTACT INFORMATION
+
+- **LinkedIn**: [Gediminas Druskis](https://www.linkedin.com/in/gediminas-druskis-2a388a88/)  
+- **Email**: [gediminas.druskis@gmail.com](mailto:gediminas.druskis@gmail.com)  
+- **GitHub**: [Dr-Brine](https://github.com/Dr-Brine)  
+
+</div>
