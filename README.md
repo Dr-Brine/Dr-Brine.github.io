@@ -1,3 +1,5 @@
+<div style="background-color: #0d1b2a; color: #ffffff; padding: 20px; border-radius: 10px;">
+
 # 🌐 Welcome to Dr. Brine's GitHub Page
 
 ---
@@ -61,5 +63,7 @@ We encourage collaboration and community participation!
 💙 **Thank you for visiting!**
 
 ---
+
+</div>
 
 </div>
