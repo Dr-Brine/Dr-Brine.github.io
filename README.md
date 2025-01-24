@@ -1,5 +1,3 @@
-<div style="background-color: #f5f5f5; color: #2c3e50; padding: 20px; border-radius: 10px; font-family: Arial, sans-serif;">
-
 
 # 👋 Hello, I'm Gediminas  
 ### ISTQB Certified Tester  
@@ -83,4 +81,4 @@
 - **Email**: [gediminas.druskis@gmail.com](mailto:gediminas.druskis@gmail.com)  
 - **GitHub**: [Dr-Brine](https://github.com/Dr-Brine)  
 
-</div>
+
